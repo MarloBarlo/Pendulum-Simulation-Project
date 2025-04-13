@@ -27,32 +27,6 @@ These tools together provide a practical way to explore classical mechanics, num
 
 ---
 
-## Getting Started
-
-### 🔧 Requirements
-Install the required libraries using pip:
-
-```bash
-pip install pygame matplotlib scipy numpy
-```
-
-### ▶️ Running the Simulations
-
-#### 1. **Pygame Pendulum Simulation**
-Run the Pygame script:
-```bash
-python pendulum_pygame.py
-```
-
-#### 2. **Matplotlib Driven Pendulum**
-Run the Matplotlib script:
-```bash
-python driven_pendulum.py
-```
-It will generate an animation of the driven pendulum using `matplotlib.animation`.
-
----
-
 ## How It Works
 
 ### 📌 Pygame Version
